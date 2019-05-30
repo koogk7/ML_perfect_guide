@@ -5,3 +5,5 @@
 ## 목차
   - [Numpy](https://github.com/koogk7/ML_perfect_guide/blob/master/Numpy.ipynb)
   - [Pandas](https://github.com/koogk7/ML_perfect_guide/blob/master/Pandas.ipynb)
+  - [Iris Predition](https://github.com/koogk7/ML_perfect_guide/blob/master/iris_predict.ipynb)
+  - [Validation](https://github.com/koogk7/ML_perfect_guide/blob/master/Validation.ipynb)
